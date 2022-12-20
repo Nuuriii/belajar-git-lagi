@@ -1,7 +1,8 @@
 Rencana Hari ini 20 Desember 2022
 
 - Belajar Git
-  * Nggak usah belajar
-  * Mending langsung ngoding
-- Mending langsung coba HTML CSS JS
+  * Belajar dari dasar
+  * Belajar Git lanjutan
+- Belajar dengan rajin
 - Mengulang Materi
+- Tetap semangat
