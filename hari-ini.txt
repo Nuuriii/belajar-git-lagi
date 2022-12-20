@@ -2,6 +2,7 @@ Rencana Hari ini 20 Desember 2022
 
 - Belajar Git
   * Belajar dari dasar
+  * Belajar Git lanjutan
 - Belajar dengan rajin
 - Mengulang Materi
 - Tetap semangat
